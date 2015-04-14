@@ -1,0 +1,20 @@
+{
+	"name" : "Full front-end example",
+	"version" : "1.0.0",
+	"authors" : [
+		"diniodinev <dinio.dinev@gmail.com>"
+	],
+	"description" : "description",
+	"main" : "main.js",
+	"license" : "MIT",
+	"ignore" : [
+		"**/.*",
+		"node_modules",
+		"bower_components",
+		"test",
+		"tests"
+	],
+	"dependencies" : {
+		"jquery" : "~1.9.1"
+		}
+	}
